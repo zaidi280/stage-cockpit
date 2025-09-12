@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1057025663083",
+    "project_id": "quermes-deaf0",
+    "storage_bucket": "quermes-deaf0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057025663083:android:ef5b08046acd81407f112e",
+        "android_client_info": {
+          "package_name": "com.quermes.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEhWftn6_4h1L3R13Sw_LJJRWfDCgXNyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
