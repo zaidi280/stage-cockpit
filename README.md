@@ -74,12 +74,14 @@ flutter run
 ---
 
 ## 💡 Usage
+
 Once the setup is complete, you can start customizing and deploying your own stage control or cockpit applications using Flutter and Firebase.
+
 ---
 
 ## 🤝 Contributing
 Contributions are always welcome!
 If you have ideas or suggestions, feel free to open a pull request or file an issue.
 
-<p align="center">💙 Built with passion by <a href="https://github.com/zaidi280">Zaidi280</a></p> ```
+<p align="center">💙 Built with passion by <a href="https://github.com/zaidi280">Zaidi280</a></p>
 
